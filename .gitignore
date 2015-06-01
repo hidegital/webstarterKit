@@ -1,0 +1,13 @@
+node_modules
+dist
+.tmp
+app.yaml
+.idea/.name
+.idea/encodings.xml
+.idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/web-starter-kit.iml
+.idea/workspace.xml
+.idea/libraries/web_starter_kit_node_modules.xml
+.idea/scopes/scope_settings.xml
